@@ -1,0 +1,8 @@
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\bin\Debug\netcoreapp2.2\OurClassLibrary.deps.json
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\bin\Debug\netcoreapp2.2\OurClassLibrary.dll
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\bin\Debug\netcoreapp2.2\OurClassLibrary.pdb
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\obj\Debug\netcoreapp2.2\OurClassLibrary.csprojAssemblyReference.cache
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\obj\Debug\netcoreapp2.2\OurClassLibrary.AssemblyInfoInputs.cache
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\obj\Debug\netcoreapp2.2\OurClassLibrary.AssemblyInfo.cs
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\obj\Debug\netcoreapp2.2\OurClassLibrary.dll
+C:\Development\Azure Demos\DevOps\FirstProject\MVC.NetCoreWeb\OurClassLibrary\obj\Debug\netcoreapp2.2\OurClassLibrary.pdb
